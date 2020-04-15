@@ -1,0 +1,13 @@
+@import "./style/_reset.scss";
+@import "./style/_Layout.scss";
+#app{
+    width: 100%;
+    height: 100%;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
