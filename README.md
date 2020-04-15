@@ -1,7 +1,6 @@
 ## Webpack 前端自動化開發
 課程網址： <https://www.yottau.com.tw/course/intro/704#intro>
 
-
 ### 課程大綱
 - 教學主題一：Webpack 入門介紹
     - 課程開始
